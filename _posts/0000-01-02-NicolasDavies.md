@@ -1,5 +1,5 @@
+---
 layout: slide
-title:"welcome to our second slide!"
-
-Your text
+title: "welcome to our second slide!"
+---
 Biggus Dickus
